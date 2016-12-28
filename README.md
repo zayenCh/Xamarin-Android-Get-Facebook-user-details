@@ -7,9 +7,15 @@ These components are mandatory to include via nugets ---------------------------
 
 
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/1FacebookInfo.png | width=100)
+
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/2FacebookInfo.png | width=100)
+
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/3FacebookInfo.png | width=100)
+
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/4FacebookInfo.png | width=100)
 
+Getting the Token via Xamarin.Auth
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/1getuserToken.png )
+
+Getting the user details via Xamarin SDK using the Token
 ![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/3getuserProfile.png ) 
