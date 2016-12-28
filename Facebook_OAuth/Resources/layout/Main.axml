@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/com_facebook_button_background_color">
+    <ImageView
+        android:id="@+id/imgCover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_gravity="left" />
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:minWidth="70dp"
+        android:minHeight="70dp" />
+    <TextView
+        android:id="@+id/txtRes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textColor="@android:color/white"
+        android:text="Tap Login to get Token"
+        android:gravity="top" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/myButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:background="@color/com_facebook_device_auth_text"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="12dp" />
+        <Button
+            android:id="@+id/myButtonPost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get Info"
+            android:textColor="@android:color/white"
+            android:background="@color/com_facebook_device_auth_text" />
+    </LinearLayout>
+</LinearLayout>
