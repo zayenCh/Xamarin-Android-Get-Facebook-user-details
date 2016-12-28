@@ -6,8 +6,10 @@ These components are mandatory to include via nugets ---------------------------
 2 Facebook SDK 6.2.2 by The Outercurve Foundation : https://components.xamarin.com/view/xamarin.auth/
 
 
-![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/1FacebookInfo.png)
-![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/2FacebookInfo.png)
-![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/3FacebookInfo.png)
-![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/4FacebookInfo.png)
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/1FacebookInfo.png | width=100)
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/2FacebookInfo.png | width=100)
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/3FacebookInfo.png | width=100)
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/4FacebookInfo.png | width=100)
 
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/1getuserToken.png )
+![](https://github.com/zayenCh/Xamarin-Android-Get-Facebook-user-details/blob/master/3getuserProfile.png ) 
